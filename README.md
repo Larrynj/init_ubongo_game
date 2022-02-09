@@ -1,6 +1,8 @@
 # init_ubongo_game
 
-Aim of this project is to develop and extend current working model of ubongo game to work with selected piece and board
+Aim of this project is to develop and extend current working model of ubongo game to work with selected piece and board.
+
+
 Extended optimizations (to work with and playing shap and board) are possible as a next step.
 
 
