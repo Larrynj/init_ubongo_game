@@ -1,10 +1,10 @@
 # init_ubongo_game
 
-# Aim of this project is to develop and extend current working model of ubongo game to work with selected piece and board
-# Extended optimizations (to work with and playing shap and board) are possible as a next step.
+Aim of this project is to develop and extend current working model of ubongo game to work with selected piece and board
+Extended optimizations (to work with and playing shap and board) are possible as a next step.
 
 
-# Current algoorithm that handels the functionality.
+Current algoorithm that handels the functionality.
 '''
 The algorithm should work as follows,
 - A first piece is selected from order_1 and inserted in the playing board at the starting coord_(0,0) og_board = temp_board.
